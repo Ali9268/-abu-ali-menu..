@@ -165,7 +165,7 @@
         <li><div class="item-row"><div class="item-name">وجبة شاورما دجاج</div><div class="item-price">22₪</div></div></li>
         <li><div class="item-row"><div class="item-name">وجبة شاورما عجل</div><div class="item-price">25₪</div></div></li>
         <li><div class="item-row"><div class="item-name">وجبة شاورما مكس</div><div class="item-price">25₪</div></div></li>
-        <li><div class="item-row"><div class="item-name">باشكا دجاج</div><div class="item-price">20₪</div></div></li>
+        <li><div class="item-row"><div class="item-name">باشكا دجاج</div><div class="item-price">22₪</div></div></li>
         <li><div class="item-row"><div class="item-name">باشكا عجل</div><div class="item-price">25₪</div></div></li>
         <li><div class="item-row"><div class="item-name">باشكا مكس</div><div class="item-price">25₪</div></div></li>
         <li><div class="item-row"><div class="item-name">ميني باشكا</div><div class="item-price">12₪</div></div></li>
